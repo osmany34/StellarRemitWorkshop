@@ -1,0 +1,16 @@
+[package]
+name = "stellar-remit-contract"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[features]
+testutils = ["soroban-sdk/testutils"]
+
+[dependencies]
+soroban-sdk = "0.9.3"
+
+[dev_dependencies]
+soroban-sdk = { version = "0.9.3", features = ["testutils"] } 
