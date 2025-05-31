@@ -1,4 +1,4 @@
-# 🌟 StellarRemit: AI-Powered Smart Remittance Platform
+# 🌟 SwiftSend AI: AI-Powered Smart Remittance Platform
 
 ![Stellar Remit Görseli](f1b49fe2-cc66-418b-8aa7-a2e0a4915b6a.png)
 ## 👨‍💻 About Me
